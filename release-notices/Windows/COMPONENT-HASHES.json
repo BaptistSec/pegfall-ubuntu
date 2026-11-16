@@ -1,0 +1,266 @@
+[
+  {
+    "file": "SDL2.dll",
+    "sha256": "b37740a72a7a9706216df9f0134894bb7a850b356fd149398c67d874cbcfacb4"
+  },
+  {
+    "file": "SDL2_image.dll",
+    "sha256": "71607e840f462799652023d394fad7aed1f348a3cd52f88a8b3b7842fa7a3147"
+  },
+  {
+    "file": "SDL2_mixer.dll",
+    "sha256": "0edd228575842920848b204cf7b9707d4159366d8ed7cee74c592462a3a503fd"
+  },
+  {
+    "file": "SDL2_ttf.dll",
+    "sha256": "86febaf2ca137e417808a646b5920cdd10d7093b30a2071abde40b012c923c3d"
+  },
+  {
+    "file": "VCRUNTIME140.dll",
+    "sha256": "9d2b40f0395cc5d1b4d5ea17b84970c29971d448c37104676db577586d4ad1b1"
+  },
+  {
+    "file": "_bz2.pyd",
+    "sha256": "62173a8fadd4bf4dd71ab89ea718754aa31620244372f0c5bbbae102e641a60e"
+  },
+  {
+    "file": "_decimal.pyd",
+    "sha256": "9aac010a424c757c434c460c3c0a6515d7720966ab64bad667539282a17b4133"
+  },
+  {
+    "file": "_hashlib.pyd",
+    "sha256": "caa4d2f8795e9a55e128409cc016e2cc5c694cb026d7058fc561e4dd131ed1c9"
+  },
+  {
+    "file": "_lzma.pyd",
+    "sha256": "60793c8592193cfbd00fd3e5263be4315d650ba4f9e4fda9c45a10642fd998be"
+  },
+  {
+    "file": "_socket.pyd",
+    "sha256": "e6deb751039cd5424a139708475ce83f9c042d43e650765a716cb4a924b07e4f"
+  },
+  {
+    "file": "freetype.dll",
+    "sha256": "1c487392d6d06970ba3c7b52705881f1fb069f607243499276c2f0c033c7df6f"
+  },
+  {
+    "file": "libcrypto-1_1.dll",
+    "sha256": "9b7b4a0ad212095a8c2e35c71694d8a1764cd72a829e8e17c8afe3a55f147939"
+  },
+  {
+    "file": "libjpeg-62.dll",
+    "sha256": "207c139e6029741b786d08942dbad54127520b361dda56228e660e4d556d8ca1"
+  },
+  {
+    "file": "libogg-0.dll",
+    "sha256": "76344182f53695db65fca5921ab4e478cdf2f954d86628b27dab0fb9327bf2e7"
+  },
+  {
+    "file": "libopus-0.dll",
+    "sha256": "064aaa2aee76ac93df0f9ec78a670a49954e3f4ac1bc1fd70ebda2f035ccc073"
+  },
+  {
+    "file": "libopusfile-0.dll",
+    "sha256": "31f695d1e45596aa29a3fa4e694ce3a5355216ddc74d15f1b3739cc09bbda529"
+  },
+  {
+    "file": "libpng16-16.dll",
+    "sha256": "fb243cedb9b55b9095596be133636f7681f31a4b0d2ab54607551addb1f60902"
+  },
+  {
+    "file": "libtiff-5.dll",
+    "sha256": "32a7816d6480f06bc5b8b030f134852b0e2d9f07fc3a4c06e0419a7f3b77671b"
+  },
+  {
+    "file": "libwavpack-1.dll",
+    "sha256": "eb288e9e8d18e5477dcaffd49712daa393bcb58f8dbd988027a53a8684654ee7"
+  },
+  {
+    "file": "libwebp-7.dll",
+    "sha256": "6f9a53679ef7b9b55cd479bc5ef840e196368630e7930b8669bd3a1a6c0ddc75"
+  },
+  {
+    "file": "libwebpdemux-2.dll",
+    "sha256": "53645d4daf4379e8e454d28d6eaaf2949ab0f1686b2fc3edf529b5f2560dd971"
+  },
+  {
+    "file": "libxmp.dll",
+    "sha256": "53e9650b772fc510f70d5e307e8c7802fb205124113c1f1d994d2142b2b39d05"
+  },
+  {
+    "file": "portmidi.dll",
+    "sha256": "c9f8d9043ac1570b10f104f2d00aec791f56261c84ee40773be73d0a3822e013"
+  },
+  {
+    "file": "pygame/SDL2.dll",
+    "sha256": "b37740a72a7a9706216df9f0134894bb7a850b356fd149398c67d874cbcfacb4"
+  },
+  {
+    "file": "pygame/SDL2_image.dll",
+    "sha256": "71607e840f462799652023d394fad7aed1f348a3cd52f88a8b3b7842fa7a3147"
+  },
+  {
+    "file": "pygame/SDL2_mixer.dll",
+    "sha256": "0edd228575842920848b204cf7b9707d4159366d8ed7cee74c592462a3a503fd"
+  },
+  {
+    "file": "pygame/SDL2_ttf.dll",
+    "sha256": "86febaf2ca137e417808a646b5920cdd10d7093b30a2071abde40b012c923c3d"
+  },
+  {
+    "file": "pygame/_freetype.cp310-win_amd64.pyd",
+    "sha256": "a8d7c5688d7a4ea5543cf43b01b8fb3147fcea2e0f69e5e9e62731d7e63a177b"
+  },
+  {
+    "file": "pygame/_sdl2/audio.cp310-win_amd64.pyd",
+    "sha256": "a4ff76afd6091910af899757c63857a4908c215d6ace6a42d0ae62fbdb4fe649"
+  },
+  {
+    "file": "pygame/_sdl2/sdl2.cp310-win_amd64.pyd",
+    "sha256": "72ee6e7bcd3ac0e678baf869becd2affac124b1ad729ae5ab05c36ccdfc061fc"
+  },
+  {
+    "file": "pygame/_sdl2/video.cp310-win_amd64.pyd",
+    "sha256": "3426b86139014dde71c14afb89eb01cad75ad637fcda750e87c5cc52bba08a04"
+  },
+  {
+    "file": "pygame/base.cp310-win_amd64.pyd",
+    "sha256": "8a331fde56d0ec9fb348e56bb99a560cb9e9051e206d7ab098789672229117f2"
+  },
+  {
+    "file": "pygame/bufferproxy.cp310-win_amd64.pyd",
+    "sha256": "c1d28e7938ba0d221f670faffd34feba9da949a373be9dfbf6489305360ac128"
+  },
+  {
+    "file": "pygame/color.cp310-win_amd64.pyd",
+    "sha256": "4ac69b49be39ccb19dabc24c9d9b5d96f34449cccd662c66e26ce6bfb8226deb"
+  },
+  {
+    "file": "pygame/constants.cp310-win_amd64.pyd",
+    "sha256": "64caca848c0e59967f9bd4ba3eed4f0e1b4b21d9a5d1eb0c88d91b4f9ea6240c"
+  },
+  {
+    "file": "pygame/display.cp310-win_amd64.pyd",
+    "sha256": "111b3023ea6dbc4a46c02ad7c35ca29e8a1f63fb62c9394c45c9f856f9f4b0a6"
+  },
+  {
+    "file": "pygame/draw.cp310-win_amd64.pyd",
+    "sha256": "53f929dc4677f1d495ce6caba8edacf7df81f73f93ab62f2098ea1f079e72362"
+  },
+  {
+    "file": "pygame/event.cp310-win_amd64.pyd",
+    "sha256": "1f954f86ce0994e76f9df19c71937b556b18b4e0d993984672145931a0c90244"
+  },
+  {
+    "file": "pygame/font.cp310-win_amd64.pyd",
+    "sha256": "efee99c98f24ccf16aaebcfcc88ae51d56ea927fef7851f0ef91bae2328bc979"
+  },
+  {
+    "file": "pygame/freetype.dll",
+    "sha256": "1c487392d6d06970ba3c7b52705881f1fb069f607243499276c2f0c033c7df6f"
+  },
+  {
+    "file": "pygame/image.cp310-win_amd64.pyd",
+    "sha256": "3be21e5d614701e9cae8e1744c7befb5a2c5a87fe0661e8db4ceae7c9df43c3b"
+  },
+  {
+    "file": "pygame/imageext.cp310-win_amd64.pyd",
+    "sha256": "5fde738490f2b69a8f1481cfd8e417c650f3702c41c966d4b5c6f843b99d1343"
+  },
+  {
+    "file": "pygame/joystick.cp310-win_amd64.pyd",
+    "sha256": "693d023473b47708b2e6dd47d00b9ec668816c89581f59d7add91e76991433b2"
+  },
+  {
+    "file": "pygame/key.cp310-win_amd64.pyd",
+    "sha256": "09dd393923736f70ec61ba2d4423eac288c3937d555939adb5fcce9f9cf34f6a"
+  },
+  {
+    "file": "pygame/libogg-0.dll",
+    "sha256": "76344182f53695db65fca5921ab4e478cdf2f954d86628b27dab0fb9327bf2e7"
+  },
+  {
+    "file": "pygame/libopus-0.dll",
+    "sha256": "064aaa2aee76ac93df0f9ec78a670a49954e3f4ac1bc1fd70ebda2f035ccc073"
+  },
+  {
+    "file": "pygame/libwebp-7.dll",
+    "sha256": "6f9a53679ef7b9b55cd479bc5ef840e196368630e7930b8669bd3a1a6c0ddc75"
+  },
+  {
+    "file": "pygame/mask.cp310-win_amd64.pyd",
+    "sha256": "f3ea9a0252f8d5e801a55327f37685cc9e591d577be8916be620185cc906ba13"
+  },
+  {
+    "file": "pygame/math.cp310-win_amd64.pyd",
+    "sha256": "5f6c07608e189f6765144b77f669b122fe99cd3a952b8d66f7fb565f0f62e787"
+  },
+  {
+    "file": "pygame/mixer.cp310-win_amd64.pyd",
+    "sha256": "52580ea6dbe425d79fe7e6bf2aff9953f94967a89f56f15639794d0c525d9664"
+  },
+  {
+    "file": "pygame/mixer_music.cp310-win_amd64.pyd",
+    "sha256": "734136b52778c3f694b84d61c3e09cb0bb48b2b316808407223ada196adaf203"
+  },
+  {
+    "file": "pygame/mouse.cp310-win_amd64.pyd",
+    "sha256": "165eb6f02a0437673d7b4a0a9741cd16668c046372242436a90d321bae7ab85b"
+  },
+  {
+    "file": "pygame/pixelarray.cp310-win_amd64.pyd",
+    "sha256": "f523a11e711b050a18281b836124cefe616cd850b0707f75e8c7a4471a81b25a"
+  },
+  {
+    "file": "pygame/pixelcopy.cp310-win_amd64.pyd",
+    "sha256": "5fce039a885bb38bd0f771591bcb1b0f8cc34f719c1bc9b8271b30b5a6068285"
+  },
+  {
+    "file": "pygame/rect.cp310-win_amd64.pyd",
+    "sha256": "034a2366aa7b833b4af3bd8f9eb76b4fe34b85e632f7655534754f3f12aee791"
+  },
+  {
+    "file": "pygame/rwobject.cp310-win_amd64.pyd",
+    "sha256": "1ada4daa63fbd7c8e47a799f103aa315c6c132dd5445ff6aa6ff2e40fb04987e"
+  },
+  {
+    "file": "pygame/scrap.cp310-win_amd64.pyd",
+    "sha256": "5d741ffa320cd052d97330baab257e8830eb32de67dfd979f09a6de1e3713953"
+  },
+  {
+    "file": "pygame/surface.cp310-win_amd64.pyd",
+    "sha256": "2859e8de987469894ce78e7f187896bad5a51673a31a681a6c496ee5b0118a3e"
+  },
+  {
+    "file": "pygame/surflock.cp310-win_amd64.pyd",
+    "sha256": "0d4f6103360c808b891f43e07829d83363d5cb6000ff842f00793ce98b490c8e"
+  },
+  {
+    "file": "pygame/system.cp310-win_amd64.pyd",
+    "sha256": "945b406a02369244b7136e82ed82f4d6192378b7dda24805d777ac6ba43f6f08"
+  },
+  {
+    "file": "pygame/time.cp310-win_amd64.pyd",
+    "sha256": "08fac24c3f6947b88be5cd66d1ef139d1c6c1f8f7d3c34de43a3300786d561bd"
+  },
+  {
+    "file": "pygame/transform.cp310-win_amd64.pyd",
+    "sha256": "5c1be505082e5f6621d914c65fbad46fd8ce5b9b5fd5c145c3fa601991299b3a"
+  },
+  {
+    "file": "pygame/window.cp310-win_amd64.pyd",
+    "sha256": "aa93d867583699d724b8797f9f99d35f39b827a454e253e2b0c7b5a4709fccaa"
+  },
+  {
+    "file": "python310.dll",
+    "sha256": "14b06796f288bc6599e458fb23a944ab0c843e9868058f02a91d4606533505ed"
+  },
+  {
+    "file": "select.pyd",
+    "sha256": "db85f2f94d4994283e1055057372594538ae11020389d966e45607413851d9e9"
+  },
+  {
+    "file": "unicodedata.pyd",
+    "sha256": "1fb2d66c056f69e8bbdd8c6c910e72697874dae680264f8fb4b4df19af98aa2e"
+  }
+]

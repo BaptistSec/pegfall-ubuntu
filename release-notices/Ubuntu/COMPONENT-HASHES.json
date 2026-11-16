@@ -1,0 +1,434 @@
+[
+  {
+    "file": "libbz2.so.1.0",
+    "sha256": "54d16979912ab62282350dd2dc5dceb5b73b13e27bb02792087aff752d16f6e9"
+  },
+  {
+    "file": "libcrypto.so.3",
+    "sha256": "956faca08210194c3753ad5c756234ccf3ea9f4938c697676be614993694603b"
+  },
+  {
+    "file": "libexpat.so.1",
+    "sha256": "5491355459d82059a2e58134c5bf3a890f6f6e1a6fb209f152c25cde7522def0"
+  },
+  {
+    "file": "libgcc_s.so.1",
+    "sha256": "fc9d43b2f6c20e53b009238f767c5b949d202389e20de9e202ea684b4ba3729a"
+  },
+  {
+    "file": "liblzma.so.5",
+    "sha256": "493cb401ab4aa3bba611ca464d12996afb3b327940d29476f535f999e167439b"
+  },
+  {
+    "file": "libmpdec.so.3",
+    "sha256": "77cc3397f963b6d882d3c49ad30091b79db6de48abfd05d434b0953dbc3916b1"
+  },
+  {
+    "file": "libpython3.10.so.1.0",
+    "sha256": "d7bc028c6a98ac8c17edeada13609ea36db324d7f49c26b6ca93994e8c830453"
+  },
+  {
+    "file": "libstdc++.so.6",
+    "sha256": "ff0825e113603c3866680d5d52216bc6d8eedf3a59f52a0aef67ff01994db128"
+  },
+  {
+    "file": "libz.so.1",
+    "sha256": "64c206f0146cc58bbddc4f22054436f4ff278f5a554aa3ce6921ddf7e9133370"
+  },
+  {
+    "file": "pygame/_freetype.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "3ef49a351376db37a8eee45317a6f5cf56156a21d3dbf1537a62326aab48b4f2"
+  },
+  {
+    "file": "pygame/_sdl2/audio.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "43447654c4d4cf8a408a51a8397b706814d27ae14e08238e8097bf0f53c01868"
+  },
+  {
+    "file": "pygame/_sdl2/sdl2.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "d97157847a8b88105c9521ff60b3d211ccdbe90a786a99b915cbe89d915b9b62"
+  },
+  {
+    "file": "pygame/_sdl2/video.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "509d088f1bd78167ebc9aa17d41c01ce7467ed98ea4a6b258e990daf684f1361"
+  },
+  {
+    "file": "pygame/base.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "32322a293ab1d8b5a1578fb13c33de816c8eb6fab8ee1ea73fad599b2fd5b186"
+  },
+  {
+    "file": "pygame/bufferproxy.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "ec9c4e3b6df9a4fb7b9a03473239cf91254a1c7e9632d4572560201bd10e1c4e"
+  },
+  {
+    "file": "pygame/color.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "1284d5b7258920a6002cadf83b837d2b66810af32498d93c2762fb7d7b403232"
+  },
+  {
+    "file": "pygame/constants.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "faac3e97a9d2b84788384647211f508a195cd6998d1ef608028f5b8d6be3c29e"
+  },
+  {
+    "file": "pygame/display.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "1ccd40151d35d7692ac20f275b912c7e68f09f7bd99b20b783f5117a6c2ccba2"
+  },
+  {
+    "file": "pygame/draw.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "9d83331e182f8621f34b8a8bcd7c51525affeeb9c49f7f4aecf312e200baa127"
+  },
+  {
+    "file": "pygame/event.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "a9ade81584385a2d87698178208e45b7d80ded451534b8496c1f87d17a65b3d9"
+  },
+  {
+    "file": "pygame/font.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "26be9d1dd89ec69b1265fba593251dfb155b34553a76e45edd730c7e1a59edb5"
+  },
+  {
+    "file": "pygame/image.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "7e5905372bfe38ccefeaacc43cd69f0b8c93c628fbc8b813717b98ff1ac923d0"
+  },
+  {
+    "file": "pygame/imageext.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "cbbbdbdac9732ea546a2dc38a997c2998d8c68975bf975af0742046b5eb1d692"
+  },
+  {
+    "file": "pygame/joystick.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "630bb87a0e67a9f7443e017cb507a41603198f9a85edc7efe72339ee7b518e1c"
+  },
+  {
+    "file": "pygame/key.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "f4eeca67d0f7ff95cba2262d2b284436d2f14dd2d656a5f17532794cad23dea1"
+  },
+  {
+    "file": "pygame/mask.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "038fbc8cb63437926ba1fa63779d7975ea4656ab858c8a69135e48d6b74a9752"
+  },
+  {
+    "file": "pygame/math.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "2331d658a5dc4189f09a5f72fdbc34d845ecec6fd4289999eb6ef0a369715fda"
+  },
+  {
+    "file": "pygame/mixer.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "c42109dd9a19e7519df5d69a8e7c344d6e635ba790b9028a04dd811d3179a505"
+  },
+  {
+    "file": "pygame/mixer_music.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "7c4c6a1ff25ae10b2248a09fcf4b7c662357d915f2af09a628af4bcc82d2f7a1"
+  },
+  {
+    "file": "pygame/mouse.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "ab87415d9aeac657489902723b8c2848f016bc9b44c49d06e3d6611b0392b0dd"
+  },
+  {
+    "file": "pygame/pixelarray.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "f655ef5b3f8f330d9bc9ef1f713dd5a771720141fd9a95167d6f7a7da352af13"
+  },
+  {
+    "file": "pygame/pixelcopy.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "2353e1846e43cee70b08348970b5336efbf132444b660ef2364b7ffce15af60d"
+  },
+  {
+    "file": "pygame/rect.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "869d6d3f1c99bcb09777cabe9f674f8730a88500433ac170333369c3ed2dc3b7"
+  },
+  {
+    "file": "pygame/rwobject.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "d8ee673d4a049cbaf191ec0b364b0e4502e8b600f4365897f42483e453bfcef4"
+  },
+  {
+    "file": "pygame/scrap.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "6c44bdf478aeb78154a20854293fe9246d8fca155171c2f8a84ba47c360388d3"
+  },
+  {
+    "file": "pygame/surface.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "e2957bdb6ecfca125322d3882c5c3774c92758dbea2f1950a6ba2aa56c744f30"
+  },
+  {
+    "file": "pygame/surflock.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "ab6c8bb7ed43d667c75c022d1cbbf017121f2b5e505385ab956f11aa8d789190"
+  },
+  {
+    "file": "pygame/system.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "7519bf1dbf7ecf279e9b32a821754854a674b11c41f8b3be834d3e8859b75b82"
+  },
+  {
+    "file": "pygame/time.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "a9a9d3bf1c6336eb3dbe42bc46450c65545736361e00fc8f7466842672756c32"
+  },
+  {
+    "file": "pygame/transform.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "84541cc85cfdca3b2c54baa192dfbee9a74ae4064a094b51d5ef8b0660ab4871"
+  },
+  {
+    "file": "pygame/window.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "b1f0c68031149249f9a323df83f38abe7fbd894f931c5cb708f16bdbf7d440db"
+  },
+  {
+    "file": "pygame_ce.libs/libFLAC-e7027ec5.so.14.0.0",
+    "sha256": "d51e7a815bdb9afcab407dde40e3725048b1da3ddfdb53182109419b1dc1da74"
+  },
+  {
+    "file": "pygame_ce.libs/libSDL2-2-50d19f93.0.so.0.3200.10",
+    "sha256": "c06b44ea9167ca40fc48e641a613eb63b45729b1ecb2fc9a0dfa107086269f56"
+  },
+  {
+    "file": "pygame_ce.libs/libSDL2_image-2-d6906c81.0.so.0.800.12",
+    "sha256": "dd4b3f38175efe85aefd46796b9cfc976576ea641fb0b13e48bc43a26c06d957"
+  },
+  {
+    "file": "pygame_ce.libs/libSDL2_mixer-2-6719e6f6.0.so.0.800.2",
+    "sha256": "d70795651b7b128b70568781e324e97e24662cb98c3a0322d3717c0228776360"
+  },
+  {
+    "file": "pygame_ce.libs/libSDL2_ttf-2-e69aa315.0.so.0.2400.0",
+    "sha256": "11b519ccd2391491ef41e2d7cedf7d8cca972f28ff40b4cbf519f0d4447696a0"
+  },
+  {
+    "file": "pygame_ce.libs/libbrotlicommon-c828db13.so.1.2.0",
+    "sha256": "d2ac20f8136a2cf0efb09cec06bb93c2d18b8af3de92b3f001be9dc2781aea14"
+  },
+  {
+    "file": "pygame_ce.libs/libbrotlidec-8e4a5025.so.1.2.0",
+    "sha256": "c57baf354f87dbea38cc84f80f4c4cf53f2bd7e015dea7689101177d6f6dfd47"
+  },
+  {
+    "file": "pygame_ce.libs/libfluidsynth-2d6ca569.so.3.5.6",
+    "sha256": "6b13bcca42505b5be074a05704cfe9f34874e9b997f19c3cd28bfe20003e91be"
+  },
+  {
+    "file": "pygame_ce.libs/libfreetype-b83c5fb4.so.6.20.6",
+    "sha256": "5c1863510e848d55268ac8ff18a8040c2de89e4f07b7492a9aed89035378c194"
+  },
+  {
+    "file": "pygame_ce.libs/libharfbuzz-672f7280.so.0.61430.0",
+    "sha256": "8a5dd7a0399909bc80395b38cec7f759098bad130ea44903a4ba42acccea310a"
+  },
+  {
+    "file": "pygame_ce.libs/libjpeg-a5e764f6.so.62.4.0",
+    "sha256": "f10462896ebecf2c6b2096253dbe305535712744334ca25f3518cbcb48f40051"
+  },
+  {
+    "file": "pygame_ce.libs/libmpg123-8b3c3c9e.so.0.49.4",
+    "sha256": "69162fc3f2f9da7377197b75ccaa1fb7667aa04476e35c2a3283cdf252d34799"
+  },
+  {
+    "file": "pygame_ce.libs/libogg-15db22d2.so.0.8.6",
+    "sha256": "44d9a014d6e023ae3aec95e9a511de526d7f1ffdf2b7a7693a58c640db19dd30"
+  },
+  {
+    "file": "pygame_ce.libs/libopus-ddd6afb9.so.0.11.1",
+    "sha256": "1f406b3cef6a8d921a9cd0de41a186ca06ab16d56a26161489b75bb56e25b174"
+  },
+  {
+    "file": "pygame_ce.libs/libopusfile-96d7a9c0.so.0.4.5",
+    "sha256": "7b498bdbbc2ea7862ee3b27caed1b19898af32e689b3581d457bddcb2d5ba062"
+  },
+  {
+    "file": "pygame_ce.libs/libpng16-fefdc88d.so.16.58.0",
+    "sha256": "e8d9989736df49d1f5d66c4acf1356a93407f2a329bd9fdd4537067bf537c06d"
+  },
+  {
+    "file": "pygame_ce.libs/libsharpyuv-f86ac02c.so.0.1.2",
+    "sha256": "8d27d6a11ff0e5185770258f2a344ccd62601d71adfa1d616a62536c7c8313e3"
+  },
+  {
+    "file": "pygame_ce.libs/libsndfile-b31f7dcd.so.1.0.37",
+    "sha256": "91b8b4c645fb1334f4d2d9affda18ba04d414e23f225872d5a0e51691d5495b1"
+  },
+  {
+    "file": "pygame_ce.libs/libtiff-9370c332.so.6.3.0",
+    "sha256": "bf8525d6e05dcb8f1285b1c8f7ad77ee426ca566d6761faeb154bdac2afc2796"
+  },
+  {
+    "file": "pygame_ce.libs/libvorbis-3d07e502.so.0.4.9",
+    "sha256": "b9b16a6c1855540bdead1eb44af02be9d1439d350c919cac685f7452c83bc411"
+  },
+  {
+    "file": "pygame_ce.libs/libvorbisenc-263afe1b.so.2.0.12",
+    "sha256": "618e8b9f9d6df9c204ae89259c8f4e675490d254ca52de9c06ae8a344538c9e3"
+  },
+  {
+    "file": "pygame_ce.libs/libvorbisfile-07b6198b.so.3.3.8",
+    "sha256": "d3dbbc6c683d871c198662f471a21826d2b4818e6308fa93f18e4926cb21adcc"
+  },
+  {
+    "file": "pygame_ce.libs/libwavpack-59f0eb24.so.1.2.8",
+    "sha256": "969b198f67d96c01ebeb021348ff81c8aba69e2c2d0d78d00ca0b0e526ada66f"
+  },
+  {
+    "file": "pygame_ce.libs/libwebp-0c3b7151.so.7.2.0",
+    "sha256": "1be063ab448a6797c5f22c615b211614db24848a9c79ddc8d9ccfdac9a17e805"
+  },
+  {
+    "file": "pygame_ce.libs/libwebpdemux-cecf59a9.so.2.0.17",
+    "sha256": "088c7d452765e0ea3859232d616f21868ae6fbea1eab00441e4e778af03d3bfc"
+  },
+  {
+    "file": "pygame_ce.libs/libxmp-35a4066c.so.4.7.2",
+    "sha256": "c9cc72f4e0f441d444d5c8124323c3aae8b58dd7487635ff6773826aade38b57"
+  },
+  {
+    "file": "python3.10/lib-dynload/_bz2.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "3603dfed24c06133e6c06614176016577be924fb5f6d1160bb6d30ac56842a39"
+  },
+  {
+    "file": "python3.10/lib-dynload/_codecs_cn.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "18aad890910778c70c6068b5e41d5e1bd40a989f859e55ef41b38fca3665e67f"
+  },
+  {
+    "file": "python3.10/lib-dynload/_codecs_hk.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "4b06de5890ff4ad1a84bab4f7dcfaf34c4dcd266361082176ba962b8757f7905"
+  },
+  {
+    "file": "python3.10/lib-dynload/_codecs_iso2022.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "8d43c4adf9fb9759c047e7ee584a7b44892aaf5adae8c50ee64dfc1683afedeb"
+  },
+  {
+    "file": "python3.10/lib-dynload/_codecs_jp.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "d6e7eb386840d6c58c2dd79eef72332e4412d8f404cff74e3517d934b6f10afd"
+  },
+  {
+    "file": "python3.10/lib-dynload/_codecs_kr.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "ebbe45555b5e3fffb5c19a1fab2714af851fcc87290f5d064426d83c455557e3"
+  },
+  {
+    "file": "python3.10/lib-dynload/_codecs_tw.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "96e0c5fc0e66017365d23f6dbf8a718646290eacf7c908460bc174003e8ea1f3"
+  },
+  {
+    "file": "python3.10/lib-dynload/_contextvars.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "906b8886e77407f2a001fcd32912e1b0cec9b97ecb15a62c8d6c36d3f14c0981"
+  },
+  {
+    "file": "python3.10/lib-dynload/_decimal.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "db7d38288217251c294732956058ea89c21080177e88eb56f9d9fa964f172f5d"
+  },
+  {
+    "file": "python3.10/lib-dynload/_hashlib.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "aaa7cad4595fb421be5a9206efea579ec852f820d44e1d76a8de9ab46e02200c"
+  },
+  {
+    "file": "python3.10/lib-dynload/_json.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "d02668cbf0664d30f194230b767f940d0abf9da851204c54b84640f987bcb145"
+  },
+  {
+    "file": "python3.10/lib-dynload/_lzma.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "291e4fc37143c7060bf210390f08451bdce7fcfcc034c0b70fb9651e1e4098bf"
+  },
+  {
+    "file": "python3.10/lib-dynload/_multibytecodec.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "faa65133609e1b79570cc2c350f7e6ea94e0aeeb721a81ce53a65e4c6fa03d01"
+  },
+  {
+    "file": "python3.10/lib-dynload/_opcode.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "57b17b5a12dcb7ddd890f968acd7d8afed00439d7f27deb656a3e5c81dc7d8f4"
+  },
+  {
+    "file": "python3.10/lib-dynload/resource.cpython-310-x86_64-linux-gnu.so",
+    "sha256": "a08b98ad6eac99adf06043a5f39e841b85198a62189f47f9896906f9148224b9"
+  },
+  {
+    "file": "libFLAC-e7027ec5.so.14.0.0",
+    "sha256": "854d9dd173d5fcb0200ab10e0e1d7e946fe68b6205a873962b9ea0f7cb0d32af"
+  },
+  {
+    "file": "libSDL2-2-50d19f93.0.so.0.3200.10",
+    "sha256": "568f9be34c56acad71cdbf16aff6bc8e3e6f5f9736494d880572f8fece5363b5"
+  },
+  {
+    "file": "libSDL2_image-2-d6906c81.0.so.0.800.12",
+    "sha256": "805dbd4fb17a6dbedc8d861ef6c7745883c2c048be6a05a5281578f3bef69bc9"
+  },
+  {
+    "file": "libSDL2_mixer-2-6719e6f6.0.so.0.800.2",
+    "sha256": "d680012464614bcd97f800ca7d394c92c2765ecc36e5ed47088b21fc0d4a2283"
+  },
+  {
+    "file": "libSDL2_ttf-2-e69aa315.0.so.0.2400.0",
+    "sha256": "7ab48b0b936daf428e992c88d8ebc5740a6fb79e7d04572120e57db9ad4a86dd"
+  },
+  {
+    "file": "libbrotlicommon-c828db13.so.1.2.0",
+    "sha256": "caa2e0c331ccb6ac836b5035e2547eeb25ebb6ada91914bd5458ed530ccade93"
+  },
+  {
+    "file": "libbrotlidec-8e4a5025.so.1.2.0",
+    "sha256": "a73a8fbdf6c0c5c42881617cbb0670487dcadb2c684453effc953855c8eeb419"
+  },
+  {
+    "file": "libfluidsynth-2d6ca569.so.3.5.6",
+    "sha256": "67ef8d5a6ada7bcc35021237c4cf3783a22e10559dd8dbd002e978d401e6c292"
+  },
+  {
+    "file": "libfreetype-b83c5fb4.so.6.20.6",
+    "sha256": "1b58c534b36e035e2122d599a978ca6d40654971bda4cffbd9b09ebc5c234177"
+  },
+  {
+    "file": "libharfbuzz-672f7280.so.0.61430.0",
+    "sha256": "1e22e4597418f033293c6a115a43cb30ec0a8015654a72ab8ebd8c56e07aa844"
+  },
+  {
+    "file": "libjpeg-a5e764f6.so.62.4.0",
+    "sha256": "140a744ed40ea0888a3e636e51b94c2db454df09578679176c0d62bd776c0359"
+  },
+  {
+    "file": "libmpg123-8b3c3c9e.so.0.49.4",
+    "sha256": "4263773596cc446ebbc570c0a3a140483776f24705aed2c7deab49ea54728c58"
+  },
+  {
+    "file": "libogg-15db22d2.so.0.8.6",
+    "sha256": "6f954d5cb35c611bd5ceddcd90277baf447e5ecf7674796aade2eb7906bf9c71"
+  },
+  {
+    "file": "libopus-ddd6afb9.so.0.11.1",
+    "sha256": "aeae9f20101d99bd1854458bb9822c252fe117885a0bd94e8ec7d214ce6ac08a"
+  },
+  {
+    "file": "libopusfile-96d7a9c0.so.0.4.5",
+    "sha256": "ac76ea1422fb529832399786269a6b30025b2b4fbf69c21d9718c733c5775be3"
+  },
+  {
+    "file": "libpng16-fefdc88d.so.16.58.0",
+    "sha256": "7e207b8e44a70bc98568f4bff8b5360e070f84cb30ff1c7a9102b913b26d6d26"
+  },
+  {
+    "file": "libsharpyuv-f86ac02c.so.0.1.2",
+    "sha256": "0aaccd593d43d739d244c9f950dae8eff743ea5035a0427f5ee6a282c845f649"
+  },
+  {
+    "file": "libsndfile-b31f7dcd.so.1.0.37",
+    "sha256": "0674f923d87b26d7aa3375ea2789b2c80733ecb9782843bea3c62fbc157e8281"
+  },
+  {
+    "file": "libtiff-9370c332.so.6.3.0",
+    "sha256": "bf6aa60b445c5f524ec9cdc09dbb476a062e3a6ab32796bcefafd3c858c9b725"
+  },
+  {
+    "file": "libvorbis-3d07e502.so.0.4.9",
+    "sha256": "8de6c06410fb6db9f28823c147a08907996ae65eceeec12abc3c26d1c67baa07"
+  },
+  {
+    "file": "libvorbisenc-263afe1b.so.2.0.12",
+    "sha256": "a9002874819fe2c83e8003b5ef2ef3d1c6ba8214b3b70caa74f3a257ce937e8f"
+  },
+  {
+    "file": "libvorbisfile-07b6198b.so.3.3.8",
+    "sha256": "a01206824fbd23ac8b0e12b34e755811b98859d0a6d750de95d9673b2ed9fb7f"
+  },
+  {
+    "file": "libwavpack-59f0eb24.so.1.2.8",
+    "sha256": "3d260e2a2a6b9e08cbe4d7ff7fcaeb710a1ba66bd4436eee52450ee42be50ea0"
+  },
+  {
+    "file": "libwebp-0c3b7151.so.7.2.0",
+    "sha256": "58783805587b3d1752462f9f0f4516504d7fb26d180375442941e4775694d13c"
+  },
+  {
+    "file": "libwebpdemux-cecf59a9.so.2.0.17",
+    "sha256": "936d88efa8c4c22797103b774658541d4260c0ac0151867e3f60571791df3655"
+  },
+  {
+    "file": "libxmp-35a4066c.so.4.7.2",
+    "sha256": "22c46e92a0efef89d2d2cc2abfb5f421d48c2d6bd1ceb54755818dd016dde16e"
+  }
+]
